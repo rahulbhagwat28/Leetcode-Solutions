@@ -16,4 +16,4 @@ Neetcode's problem list is used here for the following topics :
 8. Greedy
 
 
-link : neetcode.io
+link: https://neetcode.io/
