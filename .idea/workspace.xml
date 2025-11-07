@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8d5649-72ae-41a5-94e0-2797cb7aa304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays &amp; Hashing/MaxDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays &amp; Hashing/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays &amp; Hashing/StrictlyIncDec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode-Neetcode.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Neetcode.xlsx" afterDir="false" />
     </list>
